@@ -9,15 +9,14 @@ last_name: ElZemity
 email: ae455@kent.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a PhD Candidate at University of Kent, focusing on security of IoT with Machine Learning.
-footer_text: >
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: Stand on the shoulders of giants
 keywords: Cybersecurity, Machine Learning, PhD, IoT # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✌🏻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: adelsamir01.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -65,16 +64,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: adelsamir01 # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: adelsamirr # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: adelelzemity # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: eFI-Lz0AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-5402-7837 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -94,15 +93,15 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: adelsamirr # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: adelsamir # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is via Email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
