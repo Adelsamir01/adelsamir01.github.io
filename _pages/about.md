@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Previously
 * Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt. 
-* Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://uncfsu.edu) in the USA, in computer science. 
+* Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science. 
 * Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP).
 
 ### Currently 
