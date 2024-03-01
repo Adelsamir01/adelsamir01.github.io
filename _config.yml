@@ -8,9 +8,9 @@ middle_name: S.
 last_name: ElZemity
 email: ae455@kent.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-I am a PhD Candidate at University of Kent, focusing on security of IoT with Machine Learning.
+  I am a PhD Candidate at University of Kent, focusing on security of IoT with Machine Learning.
 footer_text: >
-
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Cybersecurity, Machine Learning, PhD, IoT # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✌🏻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
