@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: adelsamir01.github.io/sitemap.xml
+Sitemap: adelsamir.com/sitemap.xml
