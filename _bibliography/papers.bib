@@ -1,4 +1,16 @@
 ---
+To add publications create a new entry in the [\_bibliography/papers.bib](_bibliography/papers.bib) file. 
+You can find the BibTeX entry of a publication in Google Scholar by clicking on the quotation marks below the publication title, 
+then clicking on "BibTeX", or also in the conference page itself. By default, the publications will be sorted by year and the most 
+recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
+
+You can add extra information to a publication, like a PDF file in the `assets/pdfs/` directory and add the path to the PDF file in 
+the BibTeX entry with the `pdf` field. Some of the supported fields are: 
+
+`abstract`, `altmetric`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, 
+
+`pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
+
 ---
 
 @string{aps = {American Physical Society,}}
@@ -9,7 +21,11 @@
   booktitle={International Conference on Model and Data Engineering},
   pages={3--16},
   year={2023},
-  organization={Springer}
+  bibtex_show={true},
+  organization={Springer},
+  website = {https://link.springer.com/chapter/10.1007/978-3-031-55729-3_2}
+  
+
 }
 
 @INPROCEEDINGS{10391388,
@@ -19,27 +35,37 @@
   year={2023},
   volume={},
   number={},
+  bibtex_show={true},
   pages={215-220},
   keywords={Technological innovation;Deep architecture;Computer architecture;Streaming media;Transformers;Convolutional neural networks;Hemorrhaging;Intracranial Hemorrhage;Transformer;Swin Transformer},
-  doi={10.1109/3ICT60104.2023.10391388}}
+  doi={10.1109/3ICT60104.2023.10391388},
+  website = {https://ieeexplore.ieee.org/abstract/document/10391388}
+  
+  
+  }
 
 
 @inproceedings{el2020wastewater,
   title={Wastewater treatment model with smart irrigation utilizing PID control},
-  author={ELZemity, Adel Samir and Gaafar, Ahmed Ali and Ahmed, Ahmed Khaled and Abdelwahab, Ahmed Sayed and Saad, Hatim Mohamed and Elboushi, Mostafa Khaled and Ibraheem, Amira Mofreh},
+  author={ELZemity, Adel and Gaafar, Ahmed Ali and Ahmed, Ahmed Khaled and Abdelwahab, Ahmed Sayed and Saad, Hatim Mohamed and Elboushi, Mostafa Khaled and Ibraheem, Amira Mofreh},
   booktitle={2020 2nd Novel Intelligent and Leading Emerging Sciences Conference (NILES)},
   pages={374--379},
   year={2020},
-  organization={IEEE}
+  bibtex_show={true},
+  organization={IEEE},
+  website = {https://ieeexplore.ieee.org/document/9257882}
 }
 
 @INPROCEEDINGS{8909336,
-  author={Othman, Mohamed K. and ElZemity, Adel S. and Rawash, Mohamed K. and Taha, Hazem A. and Alalem, Shorouk and El-Fdaly, Maryam and El-Batawy, Yasser M.},
+  author={Othman, Mohamed K. and ElZemity, Adel and Rawash, Mohamed K. and Taha, Hazem A. and Alalem, Shorouk and El-Fdaly, Maryam and El-Batawy, Yasser M.},
   booktitle={2019 Novel Intelligent and Leading Emerging Sciences Conference (NILES)}, 
   title={Interfacial Modification of Perovskite Solar Cell Using ZnO Electron Injection Layer with PDMS as Antireflective Coating}, 
   year={2019},
   volume={1},
   number={},
   pages={209-213},
+  bibtex_show={true},
   keywords={Conferences;Perovskite solar cell;photovoltaics;Polydimethylsiloxane (PDMS);Pyramids Structure;Electron Injection;Multipathing},
-  doi={10.1109/NILES.2019.8909336}}
+  doi={10.1109/NILES.2019.8909336},
+  website = {https://ieeexplore.ieee.org/document/8909336}
+  }
