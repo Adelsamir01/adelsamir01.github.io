@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://kent.ac.uk'>University of Kent</a>, focusing on security of IoT with Machine Learning.
+subtitle: PhD Candidate at <a href='https://kent.ac.uk'>University of Kent</a>, focusing on privacy and security of IoT with Machine Learning.
 
 profile:
   align: right
