@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Adel
-middle_name: S.
+middle_name: Samir
 last_name: ElZemity
 email: ae455@kent.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -12,11 +12,11 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: Stand on the shoulders of giants. 
 keywords: Cybersecurity, Machine Learning, PhD, IoT # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: σ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: <3 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: adelsamir.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -44,7 +44,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
