@@ -1,25 +1,21 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: KENT & MEDWAY CYBER CLUSTER
+description: Complete website design and ongoing maintenance and updates.
+img: assets/img/12.png
 importance: 1
-category: work
+category: WordPress
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+You can visit and explore the website designed for the Kent and Medway Cyber Security Cluster by clicking here: <a href="https://kmcc-uk.org/">KMCC</a>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- The website serves as the online platform for the Kent and Medway Cyber Security Cluster (KMCC), a locally recognized cluster within the UKC3 network.
+- It highlights KMCC's role in developing the cyber security ecosystem in the Kent and Medway region, focusing on community building, innovation promotion, and cyber skills development.
+- The website showcases KMCC's strategic partnerships with industry experts and higher education institutions to enhance cyber security capabilities.
+- Visitors can join the cluster through the website to engage in discussions, access resources, and stay updated on news and activities.
+- It provides information on KMCC's collaborations with various stakeholders including local authorities, businesses, HEIs, and schools to foster a comprehensive cyber security network.
+- Users can subscribe to email communications to receive regular updates and notifications from KMCC.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
