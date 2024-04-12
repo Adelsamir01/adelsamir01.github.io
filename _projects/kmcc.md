@@ -2,7 +2,7 @@
 layout: page
 title: KENT & MEDWAY CYBER CLUSTER
 description: Complete website design and ongoing maintenance and updates.
-img: assets/img/12.png
+img: assets/img/12.jpg
 importance: 1
 category: WordPress
 related_publications: true
@@ -19,12 +19,12 @@ You can visit and explore the website designed for the Kent and Medway Cyber Sec
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.png" title="News" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="News" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.png" title="Newsletter and Footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="Newsletter and Footer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.png" title="Events Calender" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="Events Calender" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
