@@ -5,7 +5,7 @@ description: Complete website design and ongoing maintenance and updates.
 img: assets/img/12.jpg
 importance: 1
 category: WordPress
-related_publications: true
+
 ---
 
 You can visit and explore the website designed for the Kent and Medway Cyber Security Cluster by clicking here: <a href="https://kmcc-uk.org/">KMCC</a>
@@ -17,14 +17,29 @@ You can visit and explore the website designed for the Kent and Medway Cyber Sec
 - It provides information on KMCC's collaborations with various stakeholders including local authorities, businesses, HEIs, and schools to foster a comprehensive cyber security network.
 - Users can subscribe to email communications to receive regular updates and notifications from KMCC.
 
+<div class="caption">
+    News section on homepage and easy to add news feature.
+</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="News" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="caption">
+    Newsletter and Footer.
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="Newsletter and Footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="caption">
+    Events Calender
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="Events Calender" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
