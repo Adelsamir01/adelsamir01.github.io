@@ -8,7 +8,7 @@ category: WordPress
 
 ---
 
-You can visit and explore the website by clicking here: <a href="https://www.geniusmoneyhub.com/">Genius Academy</a>
+You can visit and explore the website by clicking here: <a href="https://www.geniusmoneyhub.com/">Genius Money Academy</a>
 
 <h2>Project Summary</h2>
 
