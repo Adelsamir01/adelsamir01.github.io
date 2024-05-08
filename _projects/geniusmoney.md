@@ -1,8 +1,6 @@
-Here's a revised structured description for your website, Genius Money Hub, reimagined as an online academy with a Learning Management System (LMS):
-
 ---
 layout: page
-title: Genius Academy
+title: Genius Money Academy
 description: State-of-the-art online learning platform offering a wide range of courses with interactive learning modules and video content.
 img: assets/img/gma.png
 importance: 1

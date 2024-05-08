@@ -10,9 +10,6 @@ category: WordPress
 
 You can visit and explore the website by clicking here: <a href="https://visionmetric.com/">Vision Metric</a>
 
-Here's how you can structure the provided information in HTML format:
-
-
 <h2>Project Summary</h2>
 
 <h3>WordPress Theme Management:</h3>
