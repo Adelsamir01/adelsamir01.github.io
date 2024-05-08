@@ -6,7 +6,7 @@ title: Genius Academy
 description: State-of-the-art online learning platform offering a wide range of courses with interactive learning modules and video content.
 img: assets/img/gma.png
 importance: 1
-category: Educational Platform
+category: WordPress
 
 ---
 
