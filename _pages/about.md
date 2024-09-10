@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Second Year PhD Student at <a href='https://kent.ac.uk'>University of Kent</a>, focusing on privacy and security of IoT with Machine Learning.
 
