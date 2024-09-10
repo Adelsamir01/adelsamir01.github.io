@@ -2,12 +2,12 @@
 layout: page
 permalink: /cyber-firewall/
 title: Creator Firewall
-description: A cybersecurity course designed specifically for influencers and creators. Learn how to protect your online presence, secure your accounts, and safeguard your personal brand. Led by Adel Samir, a tech creator with 2+ million followers and a PhD candidate in cybersecurity, this course provides the strategies you need to stay safe and confident online. Join the waitlist today!
+description: A cybersecurity course designed specifically for influencers and creators. Learn how to protect your online presence, secure your accounts, and safeguard your personal brand. Led by <a href='https://adelsamir.com/'>Adel Samir</a>, a tech creator with <a href='https://beacons.ai/adelsamir/mediakit'>2+ million followers</a> and a PhD candidate in cybersecurity, this course provides the strategies you need to stay safe and confident online. Join the waitlist today!
 nav: true
 nav_order: 2
 ---
 
-# "Your Influence is Your Legacy—Let’s Keep it Safe"
+# Your Influence is Your Legacy—Let’s Keep it Safe!
 
 In today’s world, as influencers and creators, our platforms are not just a place to share content; they’re our voice, our livelihood, our passion. I know how hard you’ve worked to build what you have. The connections you’ve made, the stories you’ve shared, the impact you’ve created—it’s everything.
 
