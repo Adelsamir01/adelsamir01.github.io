@@ -10,7 +10,7 @@ nav_order: 2
 # Your Influence is Your Legacy—Let’s Keep it Safe!
 
 <div style="text-align: center;">
-  <img src="img/cybercreator1.webp" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="/assets/img/cybercreator1.webp" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
 In today’s world, as influencers and creators, our platforms are not just a place to share content; they’re our voice, our livelihood, our passion. I know how hard you’ve worked to build what you have. The connections you’ve made, the stories you’ve shared, the impact you’ve created—it’s everything.
@@ -24,7 +24,7 @@ I’m Adel Samir, a tech creator with 2+ million followers, and I’m also doing
 This course isn’t just about “how-tos”—it’s about empowering you to take control, to feel safe, and to stop feeling like your career is at the mercy of unseen digital dangers.
 
 <div style="text-align: center;">
-  <img src="img/cybercreator2.webp" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="/assets/img/cybercreator2.webp" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
 ## What You’ll Get
