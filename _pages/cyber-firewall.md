@@ -34,3 +34,6 @@ I’ve dedicated my life to cybersecurity, and as someone who’s also in the pu
 **Join the Waitlist Today** and be part of something special.
 
 This course will be limited to those who are truly serious about protecting their platforms. Let’s make sure you’re one of them. Click the link below to register your interest, and let’s start safeguarding your influence—together.
+
+<a href="https://009jlb1zc0u.typeform.com/to/uInLyFh8" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">Join Now</a>
+
