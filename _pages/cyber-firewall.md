@@ -33,17 +33,7 @@ This course isn’t just about “how-tos”—it’s about empowering you to ta
 - **Confidence:** Feel secure enough to focus on what you love—creating—without the constant worry about security.
 - **Control:** Learn the same strategies I use to protect myself and my brand, so you never have to feel vulnerable again.
 
-## Why You Can Trust Me
-
-I’ve dedicated my life to cybersecurity, and as someone who’s also in the public eye, I get it. This course is my way of giving back—of helping you feel as secure online as you are in your craft. Together, we’ll make sure nothing stands in the way of your success.
-
----
-
-**Join the Waitlist Today** and be part of something special.
-
-This course will be limited to those who are truly serious about protecting their platforms. Let’s make sure you’re one of them. Click the button below to register your interest, and let’s start safeguarding your influence—together.
-
 <div style="text-align: center;">
-  <a href="https://009jlb1zc0u.typeform.com/to/uInLyFh8" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">Join Now</a>
+  <a href="https://009jlb1zc0u.typeform.com/to/uInLyFh8" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">**Join the Waitlist**</a>
 </div>
 
