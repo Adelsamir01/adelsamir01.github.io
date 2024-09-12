@@ -10,7 +10,7 @@ nav_order: 2
 # Your Influence is Your Legacy—Let’s Keep it Safe!
 
 <div style="text-align: center;">
-  <img src="/assets/img/cyberfirewall.jpg" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="/assets/img/cyberfirewall.jpg" alt="Cybersecurity Creator Course" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
 In today’s world, as influencers and creators, our platforms are not just a place to share content; they’re our voice, our livelihood, our passion. I know how hard you’ve worked to build what you have. The connections you’ve made, the stories you’ve shared, the impact you’ve created—it’s everything.
@@ -23,6 +23,10 @@ I’m Adel Samir, a tech creator with 2+ million followers, and I’m also doing
 
 This course isn’t just about “how-tos”—it’s about empowering you to take control, to feel safe, and to stop feeling like your career is at the mercy of unseen digital dangers.
 
+<div style="text-align: center;">
+  <img src="/assets/img" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+
 ## What You’ll Get
 
 - **Peace of mind:** Know that your accounts, your data, and your content are safe from hackers and bad actors.
@@ -30,5 +34,5 @@ This course isn’t just about “how-tos”—it’s about empowering you to ta
 - **Control:** Learn the same strategies I use to protect myself and my brand, so you never have to feel vulnerable again.
 
 ## Join the Waitlist
-<div data-tf-live="01J7G5F0T0D0KT8G0KTQYQNC56"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/viewform?embedded=true" width="640" height="2659" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
