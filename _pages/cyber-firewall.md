@@ -29,7 +29,6 @@ This course isn’t just about “how-tos”—it’s about empowering you to ta
 - **Confidence:** Feel secure enough to focus on what you love—creating—without the constant worry about security.
 - **Control:** Learn the same strategies I use to protect myself and my brand, so you never have to feel vulnerable again.
 
-
 <div style="text-align: center;">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/" style="display: inline-block; padding: 10px 20px; font-size: 30px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">Join the Waitlist</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/viewform?usp=sf_link" style="display: inline-block; padding: 10px 20px; font-size: 30px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">Join the Waitlist</a>
 </div>
