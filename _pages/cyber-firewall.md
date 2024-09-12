@@ -23,10 +23,6 @@ I’m Adel Samir, a tech creator with 2+ million followers, and I’m also doing
 
 This course isn’t just about “how-tos”—it’s about empowering you to take control, to feel safe, and to stop feeling like your career is at the mercy of unseen digital dangers.
 
-<div style="text-align: center;">
-  <img src="/assets/img" alt="Cybersecurity Creator" style="max-width: 100%; height: auto; margin-bottom: 20px;">
-</div>
-
 ## What You’ll Get
 
 - **Peace of mind:** Know that your accounts, your data, and your content are safe from hackers and bad actors.
@@ -34,5 +30,5 @@ This course isn’t just about “how-tos”—it’s about empowering you to ta
 - **Control:** Learn the same strategies I use to protect myself and my brand, so you never have to feel vulnerable again.
 
 ## Join the Waitlist
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/viewform?embedded=true" width="640" height="2659" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
