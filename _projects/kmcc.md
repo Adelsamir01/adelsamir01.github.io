@@ -5,7 +5,6 @@ description: Complete website design and ongoing maintenance and updates.
 img: assets/img/12.jpg
 importance: 1
 category: WordPress
-
 ---
 
 You can visit and explore the website designed for the Kent and Medway Cyber Security Cluster by clicking here: <a href="https://kmcc-uk.org/">KMCC</a>

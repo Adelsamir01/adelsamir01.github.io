@@ -30,6 +30,7 @@ This course isn’t just about “how-tos”—it’s about empowering you to ta
 - **Control:** Learn the same strategies I use to protect myself and my brand, so you never have to feel vulnerable again.
 
 ### Want to make sure your online presence is protected? Join the waitlist and be the first to know when the course is ready—made just for creators like you!
+
 <div style="text-align: center;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSceOuizPWETkF8_SSPLIzfOX3uvNW8KtARxTDiBBRcMwo1MVg/viewform?usp=sf_link" style="display: inline-block; padding: 10px 20px; font-size: 30px; color: #000; background-color: #fff; border: 2px solid #000; border-radius: 25px; text-decoration: none; font-weight: bold;">Join the Waitlist</a>
 </div>

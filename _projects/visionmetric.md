@@ -5,7 +5,6 @@ description: Optimising performance and resolving security issues, on-going main
 img: assets/img/4.png
 importance: 1
 category: WordPress
-
 ---
 
 You can visit and explore the website by clicking here: <a href="https://visionmetric.com/">Vision Metric</a>
@@ -48,4 +47,3 @@ You can visit and explore the website by clicking here: <a href="https://visionm
   <li>Fixed critical WordPress errors, such as disabling debug mode to prevent sensitive information exposure.</li>
   <li>Addressed site-wide issues highlighted in the Site Health - Status report provided by WordPress.</li>
 </ul>
-

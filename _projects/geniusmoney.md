@@ -5,7 +5,6 @@ description: State-of-the-art online learning platform offering a wide range of 
 img: assets/img/gma.png
 importance: 1
 category: WordPress
-
 ---
 
 You can visit and explore the website by clicking here: <a href="https://www.geniusmoneyhub.com/">Genius Money Academy</a>

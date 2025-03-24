@@ -20,11 +20,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Previously
-* Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt. 
-* Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science. 
-* Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP).
 
-### Currently 
-* Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK. 
-* Focusing on Security of Large Language Models (LLMs) and Internet of Things (IoT).
-* Developing light-weight ML to counter threats of ransomware attacks in IoT as part of the ["Countering HArms caused by Ransomware on the Internet of Things (CHARIOT)"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X036707/1) project, in collaboration with my Ph.D. supervisor, [Dr Budi Arief](https://www.kent.ac.uk/computing/people/3056/arief-budi), [Dr George Oikonomou](https://www.bristol.ac.uk/people/person/George-Oikonomou-0fda9c54-8e62-4aa7-8ce3-7713345bd3bc/), [Dr James Pope](https://www.bristol.ac.uk/people/person/James-Pope-51230534-52e6-4a47-8ef8-3636de46f381/), [Dr Calvin Brierley](https://research.kent.ac.uk/cyber/person/calvin-brierley/), [Dr Yuxiang Huang](https://research-information.bris.ac.uk/en/persons/yuxiang-huang).
+- Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt.
+- Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science.
+- Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP).
+
+### Currently
+
+- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK.
+- Focusing on Security of Large Language Models (LLMs) and Internet of Things (IoT).
+- Developing light-weight ML to counter threats of ransomware attacks in IoT as part of the ["Countering HArms caused by Ransomware on the Internet of Things (CHARIOT)"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X036707/1) project, in collaboration with my Ph.D. supervisor, [Dr Budi Arief](https://www.kent.ac.uk/computing/people/3056/arief-budi), [Dr George Oikonomou](https://www.bristol.ac.uk/people/person/George-Oikonomou-0fda9c54-8e62-4aa7-8ce3-7713345bd3bc/), [Dr James Pope](https://www.bristol.ac.uk/people/person/James-Pope-51230534-52e6-4a47-8ef8-3636de46f381/), [Dr Calvin Brierley](https://research.kent.ac.uk/cyber/person/calvin-brierley/), [Dr Yuxiang Huang](https://research-information.bris.ac.uk/en/persons/yuxiang-huang).
