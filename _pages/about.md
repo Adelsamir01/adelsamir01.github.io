@@ -6,7 +6,7 @@ subtitle: Second Year PhD Student at <a href='https://kent.ac.uk'>University of 
 
 profile:
   align: right
-  image: prof_pic2.png
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office B2.12 Keynes College</p>
