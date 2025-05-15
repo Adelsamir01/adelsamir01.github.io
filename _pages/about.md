@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Second Year PhD Student at <a href='https://kent.ac.uk'>University of Kent</a>, focusing on privacy and security of Large Language Models (LLMs).
+subtitle: Second Year Doctoral Researcher & Graduate Teaching Assistant at <a href='https://kent.ac.uk'>University of Kent</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Previously
 
-- Bachelor's degree in Computer Engineering from [Nile University](https://nu.edu.eg), Egypt
+- Bachelor's degree in Computer Engineering from [Nile University](https://nu.edu.eg)
 - International exchange programs in Computer Science at [Riga Technical University](https://rtu.lv), Latvia and [Fayetteville State University](https://www.uncfsu.edu/), USA
 - Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en), Spain, focusing on Natural Language Processing
 
