@@ -22,13 +22,12 @@ social: true # includes social icons at the bottom of the page
 
 ### Currently
 
-- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/)
-- Conducting research on the security of AI systems, with a particular focus on Large Language Models (LLMs)
-
+- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/), conducting research on the security of AI systems, with a particular focus on Large Language Models (LLMs)
+- Working as a Graduate Teaching Assistant (GTA) at the University of Kent, teaching various undergraduate and master's courses ([see teaching experience](/teaching/))
 
 ### Previously
 
-- Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt
-- Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science
-- Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP)
+- Bachelor's degree in Computer Engineering from [Nile University](https://nu.edu.eg), Egypt
+- International exchange programs in Computer Science at [Riga Technical University](https://rtu.lv), Latvia and [Fayetteville State University](https://www.uncfsu.edu/), USA
+- Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en), Spain, focusing on Natural Language Processing
 
