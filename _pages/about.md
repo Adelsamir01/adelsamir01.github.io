@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Currently
 
-- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/), conducting research on the security of AI systems, with a particular focus on Large Language Models (LLMs)
+- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/), conducting research on the safety and security of Large Language Models (LLMs) and LLM-powered applications.
 - Working as a Graduate Teaching Assistant (GTA) at the University of Kent, teaching various undergraduate and master's courses ([see teaching experience](/teaching/))
 
 ### Previously
