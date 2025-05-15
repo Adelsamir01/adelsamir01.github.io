@@ -22,14 +22,13 @@ social: true # includes social icons at the bottom of the page
 
 ### Currently
 
-- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK.
-- Conducting research on the security and privacy implications of Large Language Models (LLMs) and artificial intelligence systems, with a focus on mitigating vulnerabilities and enhancing robustness.
-- Engaged in the development of lightweight machine learning solutions to address ransomware threats in Internet of Things (IoT) environments. This work is part of the ["Countering HArms caused by Ransomware on the Internet of Things (CHARIOT)"](https://gtr.ukri.org/projects?ref=EP%2FX036707%2F1) project, in collaboration with esteemed researchers including [Dr. Budi Arief](https://www.kent.ac.uk/computing/people/3056/arief-budi), [Dr. George Oikonomou](https://www.bristol.ac.uk/people/person/George-Oikonomou-0fda9c54-8e62-4aa7-8ce3-7713345bd3bc/), [Dr. James Pope](https://www.bristol.ac.uk/people/person/James-Pope-51230534-52e6-4a47-8ef8-3636de46f381/), [Dr. Calvin Brierley](https://research.kent.ac.uk/cyber/person/calvin-brierley/), and [Dr. Yuxiang Huang](https://research-information.bris.ac.uk/en/persons/yuxiang-huang).
+- Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/)
+- Conducting research on the security of AI systems, with a particular focus on Large Language Models (LLMs)
 
 
 ### Previously
 
-- Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt.
-- Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science.
-- Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP).
+- Earned a bachelor’s degree in computer engineering from [Nile University](https://nu.edu.eg) in Egypt
+- Did exchange semesters at [Riga Technical University](https://rtu.lv) in Latvia and [Fayetteville State University](https://www.uncfsu.edu/) in the USA, in computer science
+- Worked as Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en) in Spain, specializing in Natural Language Processing (NLP)
 
