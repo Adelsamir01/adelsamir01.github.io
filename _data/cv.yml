@@ -10,7 +10,7 @@
     - name: Languages
       value: Arabic (Native), English (Fluent), German (Intermediate)
     - name: Summary
-      value: A Doctoral Researcher in Computer Science at the University of Kent, UK, with a background as a software engineer. My research focuses on the safety and security of Large Language Models (LLMs) and their applications in cyber security. I am passionate about AI and quickly adapt to new frameworks and technologies. I am particularly excited about advancing AI safety and exploring the use of LLMs in IoT and edge computing.
+      value: A Doctoral Researcher in Computer Science at the University of Kent, UK, with a background as a software engineer. My research focuses on the safety and security of Large Language Models (LLMs) and their applications in cyber security. I am passionate about AI and quickly adapt to new frameworks and technologies. I am particularly excited about advancing AI safety and security.
     - name: Links
       value: <a href="https://www.linkedin.com/in/adelelzemity/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a> &nbsp;&nbsp; <a href="https://github.com/adelsamir01" target="_blank"><i class="fab fa-github fa-2x"></i></a> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=eFI-Lz0AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-2x"></i></a>
  
