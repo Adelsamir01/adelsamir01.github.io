@@ -16,4 +16,4 @@ The seminar provided an excellent opportunity to engage with the cyber security 
   <img src="/assets/img/icss_ppt_may2025.png" alt="iCSS Presentation" style="max-width: 100%; height: auto;" />
 </p>
 
-You can watch the full presentation [here](https://youtu.be/HOI9yoEownU).
+You can watch the full presentation <a href="https://youtu.be/HOI9yoEownU" target="_blank" rel="noopener noreferrer">here</a>.

@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
-nav: false
+title: CV 
+nav: true
 nav_order: 5
-cv_pdf: Adel-ElZemity-CV_2024_9.pdf
-description: You can view my CV by clicking the PDF icon above.
+cv_pdf: 
+description: الْحَمْدُ لِلَّهِ الَّذِي رَزَقَنِي بِغَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ وَلَطَفَ بِي فِي قَضَائِهِ وَقَدَرِهِ
 toc:
   sidebar: left
 ---
