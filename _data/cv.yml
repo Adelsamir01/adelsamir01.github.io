@@ -18,28 +18,28 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: University of Kent
+      institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent (UKC)</a>
       location: United Kingdom
-      year: 2023 - present
+      year: 2023 - now
       description:
         - Focus on AI safety and cyber security
         - Full-Merit scholarship
     - title: Exchange Semester (Global UGRAD) in Computer Engineering
-      institution: Fayetteville State University
+      institution: <a href="https://www.uncfsu.edu/" target="_blank">Fayetteville State University (UNCFSU)</a>
       location: USA
       year: 2021
       description:
         - GPA (4.00/4.00) with Honors (President's List)
         - Full-Merit scholarship
     - title: Exchange Semester (Erasmus+) in Computer Engineering
-      institution: Riga Technical University
+      institution: <a href="https://www.rtu.lv/en" target="_blank">Riga Technical University (RTU)</a>
       location: Latvia
       year: 2021
       description:
         - GPA (4.00/4.00) with Honors (President's List)
         - Full-Merit scholarship
     - title: Bachelor's of Science in Computer Engineering
-      institution: Nile University
+      institution: <a href="https://nu.edu.eg/" target="_blank">Nile University (NU)</a>
       location: Egypt
       year: 2018 - 2023
       description:
@@ -52,7 +52,7 @@
     - title: Doctoral Researcher
       institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent</a>
       location: United Kingdom
-      year: 2023 - present
+      year: 2023 - now
       description:
         - Leading research on LLM safety and security, developing evaluation frameworks to assess risks in fine-tuned models
         - Building machine learning pipelines to train and evaluate LLMs on cyber security tasks, with focus on safety alignment
@@ -61,7 +61,7 @@
     - title: Teaching Assistant
       institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent</a>
       location: United Kingdom
-      year: 2023 - present
+      year: 2023 - now
       description:
         - Teaching assistant for undergraduate and postgraduate courses in Computer Science
         - Supporting students in programming, algorithms, and software development
