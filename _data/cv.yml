@@ -19,24 +19,28 @@
   contents:
     - title: PhD in Computer Science
       institution: University of Kent
+      location: United Kingdom
       year: 2023 - present
       description:
         - Focus on AI safety and cyber security
         - Full-Merit scholarship
     - title: Exchange Semester (Global UGRAD) in Computer Engineering
       institution: Fayetteville State University
+      location: USA
       year: 2021
       description:
         - GPA (4.00/4.00) with Honors (President's List)
         - Full-Merit scholarship
     - title: Exchange Semester (Erasmus+) in Computer Engineering
       institution: Riga Technical University
+      location: Latvia
       year: 2021
       description:
         - GPA (4.00/4.00) with Honors (President's List)
         - Full-Merit scholarship
     - title: Bachelor's of Science in Computer Engineering
       institution: Nile University
+      location: Egypt
       year: 2018 - 2023
       description:
         - GPA (3.9/4.0) with Honors (President's List, Dean's List)
@@ -47,6 +51,7 @@
   contents:
     - title: Doctoral Researcher
       institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent</a>
+      location: United Kingdom
       year: 2023 - present
       description:
         - Leading research on LLM safety and security, developing evaluation frameworks to assess risks in fine-tuned models
@@ -55,6 +60,7 @@
     
     - title: Teaching Assistant
       institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent</a>
+      location: United Kingdom
       year: 2023 - present
       description:
         - Teaching assistant for undergraduate and postgraduate courses in Computer Science
@@ -62,6 +68,7 @@
         - Conducting lab sessions and providing academic guidance
     - title: Machine Learning Engineer
       institution: <a href="https://www.cnio.es/en/" target="_blank">National Cancer Research Center</a>
+      location: Spain
       year: 2022 - 2023
       description:
         - Tested and optimised supervised ML models to detect metal binding sites in proteomes
@@ -69,6 +76,7 @@
         - Created python pipeline for exploring, cleaning, and filtering datasets to improve accuracy and efficiency
     - title: Software Engineer
       institution: <a href="https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory" target="_blank">Intelligent Systems Lab (ISL)</a>
+      location: USA
       year: 2021 - 2022
       description:
         - Applied expertise in deep learning to design and implement an architecture for robot's ZED Camera
