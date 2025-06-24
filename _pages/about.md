@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office B2.12</p>
-    <p>Keynes College</p>
+    <p>Room 239</p>
+    <p>Kennedy Building</p>
+    <p>School of Computing</p> 
     <p>University of Kent</p>
     <p>Canterbury, Kent, UK CT2 7FS</p>
 
