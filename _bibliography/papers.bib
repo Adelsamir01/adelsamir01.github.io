@@ -14,6 +14,45 @@ the BibTeX entry with the `pdf` field. Some of the supported fields are:
 @string{aps = {American Physical Society,}}
 
 
+
+
+
+@inproceedings{analysing_llm_risks,
+  title        = {Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data},
+  author       = {Adel ElZemity and Budi Arief and Shujun Li},
+  booktitle    = {Proceedings of the 2025 International Workshop on Security and Artificial Intelligence (SECAI 2025)},
+  year         = {2025},
+  selected     = {true},
+  bibtex_show  = {true},
+  altmetric    = {false},
+  abbr         = {SECAI},
+  video        = {https://www.youtube-nocookie.com/embed/HOI9yoEownU},
+  pdf          = {analysing_llm_risks_paper.pdf},
+  eprint       = {2505.09974},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CR},
+  arxiv        = {2505.09974}
+}
+
+@inproceedings{elzemity2025cyberllminstruct,
+  title        = {CyberLLMInstruct: A Pseudo-malicious Dataset Revealing Safety-performance Trade-offs in Cyber Security LLM Fine-tuning},
+  author       = {Adel ElZemity and Budi Arief and Shujun Li},
+  booktitle    = {Proceedings of the 2025 Workshop on Artificial Intelligence and Security (AISec 2025)},
+  year         = {2025},
+  publisher    = {ACM},
+  doi          = {10.1145/3733799.3762968},
+  selected     = {true},
+  bibtex_show  = {true},
+  altmetric    = {true},
+  abbr         = {AISec},
+  pdf          = {CyberLLMInstruct.pdf},
+  eprint       = {2503.09334},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CR},
+  arxiv        = {2503.09334},
+  code         = {https://github.com/Adelsamir01/CyberLLMInstruct}
+}
+
 @inproceedings{6c6894a4b8d349f092d614bc08395b3b,
 title = "Ransomware in Resource-Constrained Industrial IoT Networks: There Actually is a Threat",
 abstract = "The threat of ransomware attacks against Industrial Internet of Things (IIoT) networks, particularly networks of resource-constrained devices, is starting to become a reality. In this paper, we contend that the threat of ransomware infection of an IIoT environment is not only plausible, but that it also exhibits different properties compared to ransomware attacks against traditional desktop systems, necessitating a new and more appropriate approach to deal with this threat. In particular, we articulate the unique characteristics of ransomware behaviour in IIoT networks considering the distinctive characteristics, such as computationally-constrained devices and low-power wireless communication protocols. Furthermore, we outline the necessary attributes for ransomware to effectively compromise and propagate within IIoT networks. To back our argument, we present a proof-of-concept (PoC) IIoT ransomware prototype. To highlight the generality of our work, we have developed the prototype for two different hardware platforms, powered by two different open source embedded operating systems: Contiki-NG and Zephyr.",
@@ -29,42 +68,8 @@ publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
 booktitle = "2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
 address = "United States",
 url = "https://dcoss.org/",
+pdf = {chariot_paper.pdf}
 }
-
-
-@misc{analysing_llm_risks,
-      title={Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data}, 
-      author={Adel ElZemity and Budi Arief and Shujun Li},
-      year={2025},
-      selected={true},
-      bibtex_show={true},
-      altmetric = {false},
-      abbr={ArXiv},
-      video={https://www.youtube-nocookie.com/embed/HOI9yoEownU},
-      pdf = {analysing_llm_risks_paper.pdf},
-      eprint={2505.09974},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      arxiv={2505.09974},
-      abstract={The integration of large language models (LLMs) into cyber security applications presents significant opportunities, such as enhancing threat analysis and malware detection, but can also introduce critical risks and safety concerns, including personal data leakage and automated generation of new malware. We present a systematic evaluation of safety risks in fine-tuned LLMs for cyber security applications. Using the OWASP Top 10 for LLM Applications framework, we assessed seven open-source LLMs: Phi 3 Mini 3.8B, Mistral 7B, Qwen 2.5 7B, Llama 3 8B, Llama 3.1 8B, Gemma 2 9B, and Llama 2 70B. Our evaluation shows that fine-tuning reduces safety resilience across all tested LLMs (e.g., the safety score of Llama 3.1 8B against prompt injection drops from 0.95 to 0.15). We propose and evaluate a safety alignment approach that carefully rewords instruction-response pairs to include explicit safety precautions and ethical considerations. This approach demonstrates that it is possible to maintain or even improve model safety while preserving technical utility, offering a practical path forward for developing safer fine-tuning methodologies. This work offers a systematic evaluation for safety risks in LLMs, enabling safer adoption of generative AI in sensitive domains, and contributing towards the development of secure, trustworthy, and ethically aligned LLMs.}
-}
-
-@misc{elzemity2025cyberllminstructnewdatasetanalysing,
-      title={CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data}, 
-      author={Adel ElZemity and Budi Arief and Shujun Li},
-      year={2025},
-      selected={true},
-      bibtex_show={true},
-      altmetric = {true},
-      eprint={2503.09334},
-      abbr={Dataset},
-      archivePrefix={arXiv},
-      pdf = {CyberLLMInstruct.pdf},
-      primaryClass={cs.CR},
-      code={https://github.com/Adelsamir01/CyberLLMInstruct},
-      arxiv={2503.09334}
-}
-
 
 @INPROCEEDINGS{10731741,
 author={ElZemity, Adel and Arief, Budi},

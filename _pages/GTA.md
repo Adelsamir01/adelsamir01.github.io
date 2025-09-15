@@ -7,6 +7,31 @@ nav: false
 nav_order: 3
 ---
 
+
+### 2025/2026 Spring
+___
+
+
+#### COMP5003 - Fundamentals of Artificial Intelligence (Undergraduate)
+- Course Convener: Dr. [Palaniappan Ramaswamy](https://www.kent.ac.uk/school-of-computing/people/3138/ramaswamy-palaniappan)
+
+#### COMP5006 - Fundamentals of Cyber Security (Undergraduate)
+- Course Conveners: Dr. [Jason Nurse](https://www.kent.ac.uk/school-of-computing/people/3103/nurse-jason)
+
+
+<div style="margin-bottom: 5rem;"></div>
+
+### 2025/2026 Autumn
+___
+
+#### COMP6005 - Information Security Management (Undergraduate)
+- Course Convener: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun)
+
+#### COMP7027 - Information Security Management (Masters)
+- Course Convener: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun)
+
+<div style="margin-bottom: 5rem;"></div>
+
 ### 2024/2025 Spring
 ___
 

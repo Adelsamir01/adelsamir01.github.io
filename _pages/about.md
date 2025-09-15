@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Second Year Doctoral Researcher & Graduate Teaching Assistant at <a href='https://kent.ac.uk'>University of Kent</a>
+subtitle: Third Year Doctoral Researcher & Graduate Teaching Assistant at <a href='https://kent.ac.uk'>University of Kent</a>
 
 profile:
   align: right
