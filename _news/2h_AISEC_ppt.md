@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presenting at AISEC (ACM CCS 2025)
+title: Presenting at AISec (co-located with ACM CCS 2025)
 date: 2025-10-17 12:00:00-0400
 inline: false
 related_posts: false
