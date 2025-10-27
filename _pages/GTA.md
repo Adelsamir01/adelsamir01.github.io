@@ -7,6 +7,17 @@ nav: false
 nav_order: 3
 ---
 
+## Associate Fellowship Scheme (AFS) - Completed ✅
+
+The Associate Fellowship Scheme (AFS) is intended for Graduate Teaching Assistants (GTAs) or staff members contractually required to take the AFS. It is a one year, 30 credit, part time programme that leads to Associate Fellowship of the Higher Education Academy.
+
+**Completion Status:** Successfully completed the AFS programme by passing both required modules:
+
+- **Spring 2025:** [UELT8190 - Introduction to University Teaching](https://www.kent.ac.uk/courses/modules/module/UELT8190) (15 credits)
+- **Autumn 2025:** [UELT8310 - Contextualising Higher Education Teaching and Learning](https://www.kent.ac.uk/courses/modules/module/UELT8310) (15 credits)
+
+**Total Credits:** 30 credits  
+**Outcome:** Associate Fellowship of the Higher Education Academy
 
 ### 2025/2026 Spring
 ___
