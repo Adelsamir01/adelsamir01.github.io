@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Associate Fellowship Scheme (AFS) - Completed ✅
 
-The Associate Fellowship Scheme (AFS) is intended for Graduate Teaching Assistants (GTAs) or staff members contractually required to take the AFS. It is a one year, 30 credit, part time programme that leads to Associate Fellowship of the Higher Education Academy.
+The [Associate Fellowship Scheme (AFS)](https://www.kent.ac.uk/study-of-higher-education/courses/professional-development-programmes) is a one-year, 30 credit, part-time programme designed for Graduate Teaching Assistants (GTAs) and staff members at the University of Kent. Successful completion of the AFS leads to recognition as an Associate Fellow of the Higher Education Academy (now Advance HE), a valuable professional qualification widely recognised across UK higher education for teaching excellence and commitment to best practices in learning and teaching.
 
 **Completion Status:** Successfully completed the AFS programme by passing both required modules:
 
@@ -36,10 +36,13 @@ ___
 ___
 
 #### COMP6005 - Information Security Management (Undergraduate)
-- Course Convener: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun)
+- Course Conveners: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun) and Dr. [Rao Faizan Ali](https://www.kent.ac.uk/school-of-computing/people/5213/ali-rao-faizan)
+- Guided seminar discussions and supported assignment marking with individualised feedback
 
 #### COMP7027 - Information Security Management (Masters)
-- Course Convener: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun)
+- Course Conveners: Prof. [Shujun Li](https://www.kent.ac.uk/school-of-computing/people/3162/li-shujun) and Dr. [Rao Faizan Ali](https://www.kent.ac.uk/school-of-computing/people/5213/ali-rao-faizan)
+- Guided seminar discussions and supported assignment marking with individualised feedback
+
 
 <div style="margin-bottom: 5rem;"></div>
 
