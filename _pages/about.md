@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 239</p>
+    <p>Adel ElZemity</p>
     <p>Kennedy Building</p>
     <p>School of Computing</p> 
     <p>University of Kent</p>
