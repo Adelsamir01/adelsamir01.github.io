@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Chair for AI-SS 2026
-date: 2025-11-27
+date: 2026-01-01
 inline: false
 related_posts: false
 ---
