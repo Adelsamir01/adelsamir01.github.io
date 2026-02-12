@@ -13,7 +13,21 @@ the BibTeX entry with the `pdf` field. Some of the supported fields are:
 
 @string{aps = {American Physical Society,}}
 
-
+@article{elzemity2026agentic,
+  title        = {Agentic Knowledge Distillation: Autonomous Training of Small Language Models for SMS Threat Detection},
+  author       = {Adel ElZemity and Budi Arief and Shujun Li},
+  journal      = {arXiv preprint arXiv:2602.10869},
+  year         = {2026},
+  selected     = {true},
+  bibtex_show  = {true},
+  altmetric    = {true},
+  abbr         = {arXiv},
+  eprint       = {2602.10869},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CR},
+  arxiv        = {2602.10869},
+  abstract     = {SMS-based phishing (smishing) attacks have surged, yet training effective on-device detectors requires labelled threat data that quickly becomes outdated. To deal with this issue, we present Agentic Knowledge Distillation, which consists of a powerful LLM acts as an autonomous teacher that fine-tunes a smaller student SLM, deployable for security tasks without human intervention. The teacher LLM autonomously generates synthetic data and iteratively refines a smaller on-device student model until performance plateaus. We compare four LLMs in this teacher role (Claude Opus 4.5, GPT 5.2 Codex, Gemini 3 Pro, and DeepSeek V3.2) on SMS spam/smishing detection with two student SLMs (Qwen2.5-0.5B and SmolLM2-135M). Our results show that performance varies substantially depending on the teacher LLM, with the best configuration achieving 94.31% accuracy and 96.25% recall. We also compare against a Direct Preference Optimisation (DPO) baseline that uses the same synthetic knowledge and LoRA setup but without iterative feedback or targeted refinement; agentic knowledge distillation substantially outperforms it (e.g. 86-94% vs 50-80% accuracy), showing that closed-loop feedback and targeted refinement are critical. These findings demonstrate that agentic knowledge distillation can rapidly yield effective security classifiers for edge deployment, but outcomes depend strongly on which teacher LLM is used.}
+}
 
 
 
