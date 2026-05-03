@@ -8,7 +8,7 @@ related_posts: false
 
 On **25 April 2026**, I spoke at **[Nile University](https://nu.edu.eg/)**’s **Career Day 2026** to an audience of **current students and those about to graduate** — **more than 300 students** attended the session.
 
-The talk — **“How to Think in the Era of AI”** — opened with a blunt question: if models can draft code and content, **what role is left for you?** I shared a short personal thread from starting at Nile and making tech content, through research and building with AI, to a PhD in AI security at the [University of Kent](https://www.kent.ac.uk/) — emphasizing that the shift was less about stacking skills and more about **learning to ask better questions**.
+The talk — **“How to Think in the Era of AI”** — opened with a blunt question: if models can draft code and content, **what role is left for you?** I shared a short personal thread from starting at Nile University and making tech content, through research and building with AI, to a PhD in AI security at the [University of Kent](https://www.kent.ac.uk/) — emphasizing that the shift was less about stacking skills and more about **learning to ask better questions**.
 
 The core of the session was **three mental models** from the slides:
 
