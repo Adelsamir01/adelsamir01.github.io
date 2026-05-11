@@ -8,12 +8,11 @@ related_posts: false
 
 I am thrilled to announce the release of **Generation Cyber: Episode 2**, a youth-focused TV series broadcast on [KMTV](https://www.kmtv.co.uk/), where I had the honor of being the presenter!
 
+<img src="/assets/img/gen_cyber_1.png" alt="Generation Cyber Presenter 1" style="width: 100%; height: auto; border-radius: 8px; margin: 20px 0;" />
+
 This series is dedicated to helping the younger generation understand more about Artificial Intelligence (AI) and how to stay safe online. In this episode, we dive into essential knowledge and practical tips for navigating today's digital landscape securely.
 
-<div style="display: flex; gap: 15px; margin: 20px 0; align-items: center;">
-  <img src="/assets/img/gen_cyber_1.png" alt="Generation Cyber Presenter 1" style="width: calc(50% - 7.5px); height: auto; border-radius: 8px;" />
-  <img src="/assets/img/gen_cyber_2.png" alt="Generation Cyber Presenter 2" style="width: calc(50% - 7.5px); height: auto; border-radius: 8px;" />
-</div>
+<img src="/assets/img/gen_cyber_2.png" alt="Generation Cyber Presenter 2" style="width: 100%; height: auto; border-radius: 8px; margin: 20px 0;" />
 
 You can watch the full episode online below:
 
