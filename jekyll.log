@@ -1,0 +1,97 @@
+Configuration file: /Volumes/2TB/docs/adelsamir01.github.io-1/_config.yml
+            Source: /Volumes/2TB/docs/adelsamir01.github.io-1
+       Destination: /Volumes/2TB/docs/adelsamir01.github.io-1/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed 1 pagination page(s)
+       Imagemagick: Searching files in /Volumes/2TB/docs/adelsamir01.github.io-1/assets/img/
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/1-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/1-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/1-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/12-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/12-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/12-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/2-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/2-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/2-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3m_slide-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3m_slide-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/3m_slide-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/4-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/4-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/4-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec1-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec1-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec1-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec2-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec2-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec2-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec3-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec3-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/aisec3-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/best_paper_aiss-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/best_paper_aiss-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/best_paper_aiss-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-certificate-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-certificate-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-certificate-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber-runway-launch-2025-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first2-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first2-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first2-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first_2025-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first_2025-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyber_first_2025-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyberfirewall-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyberfirewall-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/cyberfirewall-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_1-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_1-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_1-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_2-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_2-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gen_cyber_2-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/genai_session-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/genai_session-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/genai_session-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gma-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gma-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/gma-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss2-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss2-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss2-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss3-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss3-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss3-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss4-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss4-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss4-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss_ppt_may2025-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss_ppt_may2025-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/icss_ppt_may2025-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/ithings-2024-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/ithings-2024-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/ithings-2024-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/nu_career_day-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/nu_career_day-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/nu_career_day-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/pgr-conf-2024-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/pgr-conf-2024-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/pgr-conf-2024-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/prof_pic-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/prof_pic-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/prof_pic-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/winter-showcase-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/winter-showcase-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/winter-showcase-1400.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/workshop-480.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/workshop-800.webp
+       Imagemagick: Adding static file /Volumes/2TB/docs/adelsamir01.github.io-1/_site/assets/img/workshop-1400.webp
+       Imagemagick: Generated 0 file(s)
+       Jekyll Feed: Generating feed for posts
