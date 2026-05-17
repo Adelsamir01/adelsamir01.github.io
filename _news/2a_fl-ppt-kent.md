@@ -13,4 +13,3 @@ The Winter Showcase provided an excellent platform for connecting with peers acr
 <p align="center">
   <img src="/assets/img/winter-showcase.jpeg" alt="Winter Showcase Presentation" style="max-width: 100%; height: auto;" />
 </p>
-

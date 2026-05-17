@@ -13,4 +13,3 @@ The event brought together postgraduate researchers from across the university, 
 <p align="center">
   <img src="/assets/img/pgr-conf-2024.jpeg" alt="PGR Conference Presentation" style="max-width: 100%; height: auto;" />
 </p>
-

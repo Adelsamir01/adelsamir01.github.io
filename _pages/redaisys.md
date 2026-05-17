@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /redaisys/
-title: 
-description: 
+title:
+description:
 nav: true
 nav_order: 6
 ---
@@ -20,7 +20,6 @@ nav_order: 6
         Specialised cyber security services for evaluating AI systems, discovering vulnerabilities in LLMs, and ensuring the safety and security of AI-powered applications across diverse environments.
     </p>
 </div>
-
 
 <h2>
 Core Services
@@ -48,7 +47,6 @@ Core Services
 </div>
 
 </div>
-
 
 <div class="research-foundation" style="margin-bottom: 2.5rem;">
   <h3 style="margin-top:0;">Research Foundation</h3>
@@ -99,7 +97,6 @@ Core Services
     <li><strong>Enterprise AI:</strong> Evaluation of corporate AI assistants and decision-making systems</li>
   </ul>
 </div>
-
 
 <div class="cta-section" style="background: linear-gradient(135deg, var(--global-theme-color) 0%, var(--global-theme-color) 100%); color: var(--global-bg-color); padding: 3rem; text-align: centre; border-radius: 15px; margin: 3rem 0;">
     <h3 style="margin-bottom: 1rem; color: var(--global-bg-color);">Ready to Secure Your AI Systems?</h3>

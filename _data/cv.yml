@@ -13,7 +13,7 @@
       value: A Doctoral Researcher in Computer Science at the University of Kent, UK, with a background as a software engineer. My research focuses on the safety and security of Large Language Models (LLMs) and their applications in cyber security. I am passionate about AI and quickly adapt to new frameworks and technologies. I am particularly excited about advancing AI safety and security.
     - name: Links
       value: <a href="https://www.linkedin.com/in/adelelzemity/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a> &nbsp;&nbsp; <a href="https://github.com/adelsamir01" target="_blank"><i class="fab fa-github fa-2x"></i></a> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=eFI-Lz0AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-2x"></i></a>
- 
+
 - title: Education
   type: time_table
   contents:
@@ -57,7 +57,7 @@
         - Leading research on LLM safety and security, developing evaluation frameworks to assess risks in fine-tuned models
         - Building machine learning pipelines to train and evaluate LLMs on cyber security tasks, with focus on safety alignment
         - Part of the "Countering HArms caused by Ransomware on the Internet of Things (CHARIOT)" project funded by EPSRC in the UK
-    
+
     - title: Teaching Assistant
       institution: <a href="https://www.kent.ac.uk/" target="_blank">University of Kent</a>
       location: United Kingdom
@@ -156,7 +156,6 @@
         - AI Security, attacks, and defenses (LLM, RAG, Federated Learning, etc.)
         - Privacy and Data Protection (GDPR, CCPA, HIPAA, etc.)
         - Encryption and Decryption (AES, RSA, SHA, etc.)
-
 
 - title: Open Source Projects
   type: time_table

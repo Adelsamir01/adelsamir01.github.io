@@ -13,6 +13,7 @@ Under the guidance of my PhD supervisors Dr. Budi Arief and Prof. Shujun Li, I s
 The proposal responds to a specific challenge from the Alan Turing Institute regarding the investigation of how fine-tuning open-source models impacts cyber capabilities. This research is particularly timely given the increasing accessibility of open-source AI models and their potential dual-use nature in cyber security applications.
 
 If funded, the research aims to:
+
 - Investigate the security implications of fine-tuning open-source AI models
 - Assess how fine-tuning affects model behavior and potential misuse scenarios
 - Develop robust methodologies for secure model adaptation
@@ -20,22 +21,27 @@ If funded, the research aims to:
 - Establish best practices for the responsible fine-tuning of AI models
 
 The proposed methodology encompasses a systematic 6-month research plan:
+
 1. Model Selection and Dataset Curation
+
    - Identification of suitable open-source AI models
    - Collection and preparation of diverse cyber security datasets
    - Development of evaluation metrics
 
 2. Fine-tuning Implementation
+
    - Implementation of various fine-tuning techniques
    - Assessment of model behavior changes
    - Documentation of performance variations
 
 3. Security Evaluation
+
    - Comprehensive vulnerability analysis
    - Testing against various attack scenarios
    - Assessment of safeguard effectiveness
 
 4. Mitigation Strategy Development
+
    - Design of security enhancement measures
    - Testing and validation of protective mechanisms
    - Documentation of successful approaches

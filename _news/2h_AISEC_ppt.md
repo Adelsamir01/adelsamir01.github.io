@@ -23,4 +23,3 @@ A huge thank you to everyone I met this week — your passion and expertise made
 <p align="center">
   <img src="/assets/img/aisec3.jpeg" alt="PGR Conference Presentation" style="max-width: 100%; height: auto;" />
 </p>
-

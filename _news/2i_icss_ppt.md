@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-
-
 <p align="center">
   <img src="/assets/img/icss2.jpeg" alt="iCSS Presentation" style="max-width: 100%; height: auto;" />
 </p>

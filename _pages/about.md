@@ -31,4 +31,3 @@ social: true # includes social icons at the bottom of the page
 - Bachelor's degree in Computer Engineering from [Nile University](https://nu.edu.eg){:data-proofer-ignore=""}
 - International exchange programs in Computer Science at [Riga Technical University](https://rtu.lv), Latvia and [Fayetteville State University](https://www.uncfsu.edu/), USA
 - Machine Learning Engineer at [Spanish National Cancer Research Center (CNIO)](https://cnio.es/en), Spain, focusing on Natural Language Processing
-

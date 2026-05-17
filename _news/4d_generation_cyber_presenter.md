@@ -21,4 +21,3 @@ You can watch the full episode online below:
 </div>
 
 Alternatively, you can watch it directly on [YouTube: Generation Cyber Episode 2](https://www.youtube.com/watch?v=6YouBvo5SnI) or on the [KMTV Official Website](https://www.kentonline.co.uk/kmtv/video/generation-cyber-ai-society-64908/).
-

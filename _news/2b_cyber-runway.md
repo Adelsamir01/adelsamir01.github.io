@@ -15,16 +15,19 @@ I'm excited to share that I've successfully completed the [Cyber Runway Launch](
 The program started with a virtual session on July 9, 2024, where I first met my cohort - the amazing group you see in the photo above! (Can you spot me? Hint: I'm the one who looks most excited about cyber security! 😄) We were a diverse group of passionate individuals from different backgrounds, all united by our interest in cyber security entrepreneurship. The highlight was the intensive three-day in-person bootcamp from July 16-18 at Plexal's London offices. These days were transformative, filled with engaging workshops, hands-on activities, and many opportunities to connect with like-minded individuals who shared my passion for cyber security innovation.
 
 What made this experience special were the connections I made. I had the opportunity to meet and learn from:
+
 - Fellow entrepreneurs with great ideas in the cyber security space
 - Industry experts who shared their knowledge and experiences
 - Mentors who provided valuable guidance and support
 - Program organizers who created an environment that encouraged collaboration and growth
 
 The program continued with a virtual session on July 26 and two reunion events:
+
 - A festive gathering on December 5, 2024, which included the Plexal Christmas Party - a great chance to reconnect with my cohort and celebrate our progress
 - A Cardiff meetup on January 15, 2025, at [sbarc\|spark](https://www.cardiff.ac.uk/campus-developments/projects/spark) - I wasn't able to attend this one, but it gave my cohort another chance to reconnect and experience the bootcamp atmosphere in a new setting
 
 Throughout the program, I learned about:
+
 - Understanding the cyber security landscape and trends
 - Developing value propositions and business strategies
 - Building sales strategies for startups
@@ -43,4 +46,4 @@ And here's my certificate of completion:
 
 <div style="text-align: center; margin: 20px 0;">
     <img src="/assets/img/cyber-runway-launch-2025-certificate.png" alt="Cyber Runway Launch Certificate" style="max-width: 100%; height: auto; border-radius: 8px;">
-</div> 
+</div>

@@ -15,29 +15,35 @@ You can read the draft paper here: [CyberLLMInstruct Paper (PDF)](/assets/pdf/Cy
 ### Reviews
 
 #### Review 1
+
 **Vote**: Reject  
 **Strengths**:
+
 - New dataset published openly with full code
 - Demonstrated improvements on CyberMetric benchmark
 - Insights about performance vs security resilience trade-off
 
 **Weaknesses**:
+
 - Insufficient discussion on benchmark performance improvements
 - Impact of data sources and preparation steps not analyzed in isolation
 - Unclear if performance degradation is dataset-specific or general fine-tuning effect
 - Verbose presentation
 
 #### Review 2
-*Note: This review was for a different paper about customs fraud detection and was submitted in error.*
+
+_Note: This review was for a different paper about customs fraud detection and was submitted in error._
 
 #### Review 3
+
 **Vote**: Reject  
 **Strengths**:
+
 - Addresses growing concerns of LLM safety in cybersecurity
 - Methodical approach using OWASP Top 10 framework with automated red-teaming
 
 **Weaknesses**:
+
 - Limited connection to core IR tasks
 - Insufficient quantitative breakdown of vulnerability types
 - Dataset balance across different vulnerability categories not well analyzed
-

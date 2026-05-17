@@ -11,6 +11,7 @@ related_posts: false
 Under the guidance of my PhD supervisors Dr. Budi Arief and Prof. Shujun Li, we submitted a grant application to the AI Safety Institute's (AISI) Systemic AI Safety Grants program. Our proposal aimed to investigate the cyber security impact of fine-tuning open-source AI models and their potential implications for systemic AI safety.
 
 The research proposal included:
+
 - A comprehensive 12-month research plan with a budget of £175,000
 - Investigation of security implications in fine-tuning open-source AI models
 - Development of mitigation strategies for identified risks
@@ -18,12 +19,15 @@ The research proposal included:
 - Focus on systemic safety in multi-model environments
 
 Key aspects of the proposed methodology:
+
 1. Model Selection and Dataset Curation
+
    - Identification of suitable open-source AI models
    - Collection and preparation of diverse cyber security datasets
    - Development of robust evaluation metrics
 
 2. Security Analysis and Implementation
+
    - Implementation of various fine-tuning techniques
    - Comprehensive vulnerability analysis
    - Assessment of safeguard effectiveness
