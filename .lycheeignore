@@ -1,0 +1,28 @@
+# Jekyll permalinks (handled dynamically by Jekyll build, so they don't exist as raw source files)
+^/teaching/?$
+^/about/?$
+^/cv/?$
+^/publications/?$
+^/projects/?$
+^/news/?$
+^/repositories/?$
+^/redaisys/?$
+^/dropdown/?$
+^/blog/?$
+
+# Template / Liquid tags that aren't compiled in raw files
+^\{\{
+^\{%
+
+# Legacy theme paths
+^/al-folio/?.*
+
+# External URLs with SSL/cert issues, bot protection, or GitHub rate-limiting
+https://www.gu.edu.eg/
+https://www.gu.eg
+https://www.gu.edu.eg
+https://github.com/alshedivat/al-folio/blob/master/.github/workflows/prettier.yml
+http://reddit.com
+https://reddit.com
+https://fontawesome.com
+https://jpswalsh.github.io/academicons/
