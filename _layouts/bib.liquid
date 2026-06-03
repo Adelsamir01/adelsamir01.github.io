@@ -150,9 +150,18 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    {% assign note_text = entry.note | strip %}
+    {% assign note_text_downcase = note_text | downcase %}
+    {% if note_text != '' and note_text_downcase contains 'award' %}
+      <div class="award">
+        <i class="fa-solid fa-award"></i>
+        {{ note_text }}
+      </div>
+    {% else %}
+      <div class="periodical">
+        {{ note_text }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
