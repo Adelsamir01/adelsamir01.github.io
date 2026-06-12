@@ -7,9 +7,9 @@ nav: false
 nav_order: 3
 ---
 
-## Associate Fellowship Scheme (AFS) - Completed ✅
+## Associate Fellowship Scheme (AFS) - Completed
 
-The [Associate Fellowship Scheme (AFS)](https://www.kent.ac.uk/study-of-higher-education/courses/professional-development-programmes) is a one-year, 30 credit, part-time programme designed for Graduate Teaching Assistants (GTAs) and staff members at the University of Kent. Successful completion of the AFS leads to recognition as an Associate Fellow of the Higher Education Academy (now Advance HE), a valuable professional qualification widely recognised across UK higher education for teaching excellence and commitment to best practices in learning and teaching.
+The [Associate Fellowship Scheme (AFS)](https://www.kent.ac.uk/study-of-higher-education/courses/professional-development-programmes) is a one-year, 30 credit, part-time programme designed for Graduate Teaching Assistants (GTAs) and staff members at the University of Kent. Successful completion of the AFS led to recognition by Advance HE as an Associate Fellow against Descriptor 1 of the UK Professional Standards Framework (UKPSF), a professional qualification widely recognised across UK higher education for teaching excellence and commitment to best practices in learning and teaching.
 
 **Completion Status:** Successfully completed the AFS programme by passing both required modules:
 
@@ -17,7 +17,7 @@ The [Associate Fellowship Scheme (AFS)](https://www.kent.ac.uk/study-of-higher-e
 - **Autumn 2025:** [UELT8310 - Contextualising Higher Education Teaching and Learning](https://www.kent.ac.uk/courses/modules/module/UELT8310) (15 credits)
 
 **Total Credits:** 30 credits  
-**Outcome:** Associate Fellowship of the Higher Education Academy
+**Outcome:** Associate Fellow (AFHEA), Advance HE, recognised against Descriptor 1 of the UK Professional Standards Framework (UKPSF)
 
 ### 2025/2026 Spring
 
