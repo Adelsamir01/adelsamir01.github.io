@@ -21,6 +21,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<div class="alert alert-info" role="alert">
+  <strong>I am a builder.</strong> See my apps at <a href="https://apps.adelsamir.com" target="_blank" rel="noopener noreferrer">apps.adelsamir.com</a>. I can build whatever you want.
+</div>
+
 ### Currently
 
 - Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/), conducting research on the safety and security of Large Language Models (LLMs) and LLM-powered applications.
