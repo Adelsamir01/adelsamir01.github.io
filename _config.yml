@@ -253,7 +253,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt"]
+  exclude: ["robots.txt", "app-ads.txt"]
   uglifier_args:
     harmony: true
 
