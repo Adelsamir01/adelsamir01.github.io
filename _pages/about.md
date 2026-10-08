@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 ### Currently
 
 - Pursuing a Ph.D. in Computer Science at [University of Kent](https://kent.ac.uk), UK, under the supervision of [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/), conducting research on the safety and security of Large Language Models (LLMs) and LLM-powered applications.
-- Postdoctoral Research Assistant (PDRA) in AI Security at [Queen Mary University of London](https://www.qmul.ac.uk/), UK, in the [SAYED Systems Group](https://sayed-sys-lab.github.io/) under the supervision of [Prof. Ahmed M. A. Sayed](https://ahmedcs.github.io/), working on decentralised cyber security for distributed systems.
+- Postdoctoral Research Assistant (PDRA) in AI Security at [Queen Mary University of London](https://www.qmul.ac.uk/), UK, in the [SAYED Systems Group](https://sayed-sys-lab.github.io/) under the supervision of [Prof. Ahmed M. A. Sayed](https://ahmedcs.github.io/), working on decentralised and federated AI for cyber security.
 
 ### Previously
 
