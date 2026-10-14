@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-On **13 October 2026**, I presented our paper **[“Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis”](/assets/pdf/raid_2026.pdf)** at the **[29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026)](https://raid2026.org/)** in **Lancaster, United Kingdom**, as part of the *Malware Detection & Analysis* session ([programme](https://raid2026.org/program.html)).
+On **13 October 2026**, I presented our paper **[“Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis”](/assets/pdf/raid_2026.pdf)** at the **[29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026)](https://raid2026.org/)** in **[Lancaster, United Kingdom](https://www.lancaster.ac.uk/)**, as part of the *Malware Detection & Analysis* session ([programme](https://raid2026.org/program.html)).
 
 The paper asks whether security teams really need large, costly, closed-source LLMs for malware analysis. We show that a carefully orchestrated team of small, open-weight language models, running locally at **zero API cost**, can match and even outperform a single large LLM, while keeping sensitive samples in-house.
 
