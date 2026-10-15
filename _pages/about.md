@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Third Year Doctoral Researcher & Graduate Teaching Assistant at <a href='https://kent.ac.uk'>University of Kent</a>
+subtitle: PDRA @ <a href='https://www.qmul.ac.uk/'>QMUL</a>
 
 profile:
   align: right
