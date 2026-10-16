@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PDRA @ <a href='https://www.qmul.ac.uk/'>QMUL</a>
+subtitle: PDRA @ <a href='https://www.qmul.ac.uk/eecs/'>EECS</a>, <a href='https://www.qmul.ac.uk/'>QMUL</a>
 
 profile:
   align: right
