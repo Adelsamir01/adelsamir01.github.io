@@ -16,4 +16,4 @@ The paper asks whether security teams really need large, costly, closed-source L
 
 Thank you to the session chair, the RAID organisers, and everyone who came along with great questions and discussion afterwards. This work was done with my supervisors [Dr. Budi Arief](https://www.kent.ac.uk/school-of-computing/people/3056/arief-budi) and [Prof. Shujun Li](https://www.hooklee.com/) at the [University of Kent](https://www.kent.ac.uk/).
 
-📄 Read the paper: [PDF](/assets/pdf/raid_2026.pdf)
+📄 Read the paper: [Springer (LNCS 17160)](https://doi.org/10.1007/978-3-032-42936-0_3) · [PDF](/assets/pdf/raid_2026.pdf) · [arXiv](https://arxiv.org/abs/2607.20216)
