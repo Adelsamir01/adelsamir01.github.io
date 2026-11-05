@@ -54,6 +54,7 @@
 
   {% else %}
     <iframe
+      title="{% if include.title %}{{ include.title }}{% else %}Embedded video{% endif %}"
       src="{{ include.path }}"
       {% if include.class %}
         class="{{ include.class }}"

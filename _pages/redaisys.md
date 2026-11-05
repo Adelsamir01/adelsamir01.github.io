@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /redaisys/
-title:
+title: Red AI Sys
 description:
 nav: true
 nav_order: 6

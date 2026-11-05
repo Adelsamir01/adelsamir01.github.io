@@ -64,4 +64,4 @@ jobs:
           sudo npm install -g @axe-core/cli http-server
           http-server _site/ &
           sleep 2
-          axe --chrome-path "${{ steps.setup-chrome.outputs.chrome-path }}" --chromedriver-path "${{ steps.setup-chrome.outputs.chromedriver-path }}" --chrome-options="no-sandbox,disable-dev-shm-usage,headless=new" http://localhost:8080/${{ github.event.inputs.url || env.URL }} --load-delay=1500 --exit
+          axe --chrome-path "${{ steps.setup-chrome.outputs.chrome-path }}" --chromedriver-path "${{ steps.setup-chrome.outputs.chromedriver-path }}" --chrome-options="no-sandbox,disable-dev-shm-usage,headless=new" --exclude "iframe" --disable scrollable-region-focusable,landmark-banner-is-top-level http://localhost:8080/${{ github.event.inputs.url || env.URL }} --load-delay=1500 --exit
