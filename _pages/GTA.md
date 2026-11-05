@@ -13,8 +13,8 @@ The [Associate Fellowship Scheme (AFS)](https://www.kent.ac.uk/study-of-higher-e
 
 **Completion Status:** Successfully completed the AFS programme by passing both required modules:
 
-- **Spring 2025:** [UELT8190 - Introduction to University Teaching](https://www.kent.ac.uk/courses/modules/module/UELT8190) (15 credits)
-- **Autumn 2025:** [UELT8310 - Contextualising Higher Education Teaching and Learning](https://www.kent.ac.uk/courses/modules/module/UELT8310) (15 credits)
+- **Spring 2025:** [UELT8190 - Introduction to University Teaching](https://kent.rl.talis.com/modules/uelt8190.html) (15 credits)
+- **Autumn 2025:** [UELT8310 - Contextualising Higher Education Teaching and Learning](https://kent.rl.talis.com/modules/uelt8310.html) (15 credits)
 
 **Total Credits:** 30 credits  
 **Outcome:** Associate Fellow (AFHEA), Advance HE, recognised against Descriptor 1 of the UK Professional Standards Framework (UKPSF)
