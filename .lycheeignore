@@ -6,7 +6,6 @@
 ^/projects/?$
 ^/news/?$
 ^/repositories/?$
-^/redaisys/?$
 ^/dropdown/?$
 ^/blog/?$
 
